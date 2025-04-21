@@ -5,7 +5,7 @@ from datetime import datetime
 import os
 
 st.set_page_config(page_title="Anti_profing_Metadata", layout="centered")
-st.title("Multi-User Excel Sheet Merger")
+st.title("Anti_profing_MetaData-User Excel Sheet Merger")
 
 DATA_FILE = "master_merged_data.xlsx"
 
